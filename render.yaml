@@ -3,7 +3,7 @@ services:
     name: n8n
     env: docker
     plan: free
-    repo: https://github.com/YOUR_USERNAME/n8n-docker-render
+    repo: https://github.com/SHAKUR-24/n8n-docker-render
     branch: main
     dockerfilePath: Dockerfile
     envVars:
